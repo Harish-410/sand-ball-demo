@@ -6,7 +6,7 @@
 ## Dependencies of the Project
 ### Boolen Operation Library pb_CSG
 ### https://github.com/karl-/pb_CSG
-## Orjinal Game Link
+## Orginal Game Link
 ### https://play.google.com/store/apps/details?id=com.water.balls&hl=tr
 
 
